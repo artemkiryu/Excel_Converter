@@ -1,3 +1,5 @@
+# this project is designed to revise existing file and create updated data file
+
 import openpyxl as xl
 from openpyxl.chart import BarChart, Reference
 
